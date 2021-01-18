@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Brain-like information computer system
 
 You can use the [editor on GitHub](https://github.com/Pramanta/academicpages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
